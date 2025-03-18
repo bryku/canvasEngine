@@ -1,0 +1,17 @@
+[
+	{
+		"source": "./img/planet-tiles.png",
+		"sourcePosition": {"x":  160, "y": 32, "w": 32, "h": 32},
+		"canvasPosition": {"x":  50, "y": 40, "w": 96, "h": 96}
+	},
+	{
+		"source": "./img/planet-tiles.png",
+		"sourcePosition": {"x":  192, "y": 32, "w": 32, "h": 32},
+		"canvasPosition": {"x":  250, "y": 40, "w": 96, "h": 96}
+	},
+	{
+		"source": "./img/planet-tiles.png",
+		"sourcePosition": {"x":  224, "y": 32, "w": 32, "h": 32},
+		"canvasPosition": {"x":  450, "y": 40, "w": 96, "h": 96}
+	}
+]

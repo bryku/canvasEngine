@@ -1,0 +1,5 @@
+{
+	"source": "./img/planet-tiles.png",
+	"sourcePosition": {"x":  96, "y": 0, "w": 32, "h": 32},
+	"canvasPosition": {"x":  50, "y": 50, "w": 96, "h": 96}
+}

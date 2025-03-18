@@ -1,0 +1,20 @@
+Planet Tiles
+	files
+		./img/planet-tiles.png
+	creator: Sharm
+	source: https://opengameart.org/content/dirt-platformer-tiles
+
+Alien Sprites:
+	files:
+		./img/alien-1.png
+		./img/alien-2.png
+		./img/alien-3.png
+	creator: GrafxKid
+	source: https://opengameart.org/content/roaming-world-sprites
+
+Jump Sound:
+	files:
+		./aud/jumpland.wav
+	creator: MentalSanityOff
+	source: https://opengameart.org/content/jump-landing-sound
+

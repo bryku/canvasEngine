@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'tektur';
+	src: url('./Tektur-VariableFont_wdth,wght.ttf');
+}
+body{
+	display: grid;
+	place-items: center;
+	width: 100%;
+	min-height: 100vh;
+	margin: 0px;
+	background: #000000;
+}
+canvas{
+	height: 400px;
+	width: 600px;
+	border: 2px solid #ffffff;
+}
+a{
+	display: inline-block;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	text-align: center;
+	color: #ffffff;
+	padding: 1rem;
+	box-sizing: border-box;
+}
